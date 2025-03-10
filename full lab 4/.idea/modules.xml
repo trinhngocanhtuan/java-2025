@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TiemKiemTuKhoaTrongNhieuFileBangDaLuong/TiemKiemTuKhoaTrongNhieuFileBangDaLuong.iml" filepath="$PROJECT_DIR$/TiemKiemTuKhoaTrongNhieuFileBangDaLuong/TiemKiemTuKhoaTrongNhieuFileBangDaLuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6/bai6.iml" filepath="$PROJECT_DIR$/bai6/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docdulieutubanphim/docdulieutubanphim.iml" filepath="$PROJECT_DIR$/docdulieutubanphim/docdulieutubanphim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docfilelonbangnhieuluong/docfilelonbangnhieuluong.iml" filepath="$PROJECT_DIR$/docfilelonbangnhieuluong/docfilelonbangnhieuluong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docvaghidulieutufile/docvaghidulieutufile.iml" filepath="$PROJECT_DIR$/docvaghidulieutufile/docvaghidulieutufile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/full lab 4.iml" filepath="$PROJECT_DIR$/.idea/full lab 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghidanhsachsonguyenvaofilevadoclai/ghidanhsachsonguyenvaofilevadoclai.iml" filepath="$PROJECT_DIR$/ghidanhsachsonguyenvaofilevadoclai/ghidanhsachsonguyenvaofilevadoclai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lietketatcacacfiletrongmotthumuc/lietketatcacacfiletrongmotthumuc.iml" filepath="$PROJECT_DIR$/lietketatcacacfiletrongmotthumuc/lietketatcacacfiletrongmotthumuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinhsodongtrongfile/tinhsodongtrongfile.iml" filepath="$PROJECT_DIR$/tinhsodongtrongfile/tinhsodongtrongfile.iml" />
+    </modules>
+  </component>
+</project>
